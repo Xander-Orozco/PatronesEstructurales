@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
+/* Integrantes: Xander Orozco - Estefania Mamian - Edward Pantoja */
+
 // =============================================================
 // CLASE BASE: Personaje
 // Representa a cualquier luchador del juego.
